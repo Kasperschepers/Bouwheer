@@ -1,0 +1,39 @@
+html{
+	padding:0;
+	margin:0;
+}
+body{
+	padding:0;
+	margin:0;
+}
+.mag{
+	text-align: center;
+	background-color:orange;
+	padding-bottom: 25px;
+}
+.mag .col-sm-12 p{
+	padding:0;
+	margin:0;
+}
+.papierendraagtassen{
+	text-align: center;
+	background-image: url(afbeeldingen/1234.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.tassen{
+	margin-top:100px;
+}
+.tasbuttons{
+	padding-bottom: 5px;
+}
+.tasbutton{
+	margin-top:25px;
+	border:none;
+	background-color: orange;
+	box-shadow: 5px 5px black;
+}
+.hightech{
+	text-align: center;
+	padding-bottom: 25px;
+}
